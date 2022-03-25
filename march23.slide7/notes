@@ -1,0 +1,25 @@
+#solution for getting the average of numbers
+
+#https://www.educative.io/edpresso/how-to-take-the-average-of-a-list-in-python
+
+#From class mate Jamil:
+#list1 = (10,20,0,40)
+#sum_of_elements = sum(list1)
+#len_of_list1 = len (list1)
+#avg = sum_of_elements/len_of_list1
+#print(avg)
+
+#from CM William
+#def GetAverage(myList):
+#tempNum = 0
+
+# for x in myList:
+#tempNum += x
+#return (tempNum / len(myList))
+
+#myList = [1,2,3,4,5,6]
+#print(GetAverage(myList))
+
+#deliver in goggle Collab or upload in teams.
+
+#2 tuples
