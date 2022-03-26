@@ -1,0 +1,7 @@
+Concatenation of string/s (console.log() = print())
+variable can change by apending it. 
+.apend function adds one character in a list ie list = [1,2] list.append(3) will print[1,2,3]
+
+Discussed string Method ie. .uppercase() every letter returns uppercase 
+
+In this class, we didn't review. He redirected to websites
